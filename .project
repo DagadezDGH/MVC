@@ -20,4 +20,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>users.csv</name>
+			<type>1</type>
+			<location>C:/Users/Usuario/eclipse-workspace/MVC/users.csv</location>
+		</link>
+	</linkedResources>
 </projectDescription>
