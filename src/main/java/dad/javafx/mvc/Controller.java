@@ -1,8 +1,5 @@
 package dad.javafx.mvc;
 
-import dad.javafx.mvc.AlertaInicio;
-import dad.javafx.mvc.Modelo;
-import dad.javafx.mvc.View;
 import javafx.application.Platform;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
